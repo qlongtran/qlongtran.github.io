@@ -486,7 +486,7 @@ span:nth-child(2):after {
     position: absolute;
     opacity: 70%;
     cursor: pointer;
-    box-shadow: 5px 10px 5px #888888;
+    box-shadow: 0 0 50px #888888;
     transition: 2s;
     
 }
